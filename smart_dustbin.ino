@@ -1,7 +1,7 @@
 // --- BLYNK DEFINITIONS ---
-#define BLYNK_TEMPLATE_ID "TMPL3SL77Uhy_"
-#define BLYNK_TEMPLATE_NAME "smart dustbin"
-#define BLYNK_AUTH_TOKEN "FjcrIRtO13N04iVCTta29k-rUWN1VYHk"
+#define BLYNK_TEMPLATE_ID "TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "TOKEN"
 #define BLYNK_PRINT Serial
 
 #include <Servo.h>
@@ -18,7 +18,7 @@
 // --- WIFI & BLYNK SETUP ---
 char auth[] = BLYNK_AUTH_TOKEN;
 char ssid[] = "test";
-char pass[] = "12341234";
+char pass[] = "PASSWORD";
 
 // --- GLOBAL OBJECTS ---
 Servo s1;
