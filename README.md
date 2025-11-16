@@ -63,11 +63,3 @@ See [smart_dustbin.ino](https://github.com/GP8-Gokul/smart_dustbin/blob/main/sma
 ## Author
 
 Created by GP8-Gokul
-
-## License
-
-MIT License (add the LICENSE file if applicable)
-
----
-
-Feel free to add hardware diagrams, wiring images, or troubleshooting tips as needed!
