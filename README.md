@@ -2,7 +2,7 @@
 
 A smart dustbin project using ESP8266, a servo motor, ultrasonic and IR sensors, buzzer, and integrated with the Blynk IoT platform. The hardware automatically opens the dustbin lid when a hand is detected and monitors the bin's fill status via an ultrasonic sensor, providing real-time notifications and alerts.
 
-<img src="dustbin.jpg" width="400" alt="Dustbin">
+<img src="dustbin.png" width="400" alt="Dustbin">
 ## Features
 
 - **Automatic Lid Opening**: Lid opens when hand is detected by the IR sensor.
